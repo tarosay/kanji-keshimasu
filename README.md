@@ -1,1 +1,1 @@
-# kanji-keshimasu
+# 漢字消しマスの生成プログラム
